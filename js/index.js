@@ -22,4 +22,3 @@ element.innerHTML = 'Hello, DOM!'
 > element.appendChild(ul);
 
 > element.style.textAlign = 'left';
-
